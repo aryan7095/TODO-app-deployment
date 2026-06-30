@@ -386,17 +386,3 @@ This project demonstrates:
 * CI/CD automation expertise
 * Terraform infrastructure provisioning
 * Scalable system architecture design
-
----
-
-# 👨‍💻 Author
-
-Shashi Kanta Das
-DevOps Engineer | Kubernetes | AWS | CI/CD | Terraform
-
-
----
-
-# Live Preview 333
-
-Check live preview here [https://todo-app-b96a5.web.app/](https://todo-app-b96a5.web.app/)
